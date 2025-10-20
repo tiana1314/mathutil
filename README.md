@@ -1,3 +1,6 @@
+[![Math Utility Project (CI included) | © 2025 by tiana](https://github.com/tiana1314/mathutil/actions/workflows/ci-script.yml/badge.svg)](https://github.com/tiana1314/mathutil/actions/workflows/ci-script.yml)
+
+
 # Welcome to Math Utility Project
 
 ### You will find in this repo the following stuff:
